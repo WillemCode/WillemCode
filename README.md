@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![Metrics](/github-metrics.svg)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+我是+WillemCode+🔭+热衷于开源与新技术的爱好者;+🤔+偶尔折腾一些有趣的小工具并在仓库中分享+✨+希望与更多志同道合的开发者一起学习)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+我是+WillemCode;🔭+热衷于开源与新技术的爱好者;🤔+偶尔折腾一些有趣的小工具并在仓库中分享;✨+希望与更多志同道合的开发者一起学习)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WillemCode&theme=github)
