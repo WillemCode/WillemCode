@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ![Metrics](/github-metrics.svg)
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=这是第一行;这是第二行)
+
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WillemCode&theme=github)
