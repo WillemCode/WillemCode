@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Metrics](/github-metrics.svg)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WillemCode)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WillemCode&theme=vue)
