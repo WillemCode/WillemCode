@@ -17,11 +17,4 @@ Here are some ideas to get you started:
 
 ![Metrics](/github-metrics.svg)
 
-https://github.com/WillemCode
-
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WillemCode&theme=github)
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=WillemCode/WillemCode,WillemCode/AliCloud_Resources&type=Date)](https://www.star-history.com/#WillemCode/WillemCode&WillemCode/AliCloud_Resources&Date)
